@@ -1,0 +1,25 @@
+.css-i9fmh8-MuiBackdrop-root-MuiModal-backdrop {
+  background-color: #000 !important;
+  position: static !important;
+}
+.css-79ws1d-MuiModal-root {
+  position: static !important;
+}
+
+.MuiModal-backdrop {
+  transition: 2s all !important;
+}
+
+.modalBtn {
+  position: absolute !important;
+  right: 20px !important;
+  bottom: 0px !important;
+  height: 70px !important;
+  width: 70px !important;
+  padding: 5px 5px;
+}
+
+.modalBtnIcon {
+  height: 100% !important;
+  width: 100% !important;
+}
